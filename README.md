@@ -1,1 +1,1 @@
-# test-registration
+# Test registration project
