@@ -1,0 +1,15 @@
+#loginbox, #signupbox, #userbox {
+    margin-top: 50px;
+}
+
+#loginbox .panel-body {
+    padding-top: 30px
+}
+
+#loginform .input-control {
+    margin-bottom: 25px;
+}
+
+#loginform .form-group {
+    margin-top: 10px;
+}
