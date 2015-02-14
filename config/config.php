@@ -4,8 +4,8 @@
  * Database connection settings
  */
 $db = array(
-    'host' => 'localhost',
-    'database' => 'testdb',
-    'user' => 'root',
-    'pass' => '111'
+    'host' => 'localhost', // database host
+    'database' => '', // database name
+    'user' => '', // database user
+    'pass' => '' // database password
 );
